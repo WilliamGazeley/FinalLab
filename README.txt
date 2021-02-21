@@ -3,7 +3,7 @@ Use Windows 10
 
 It is advised to use Anaconda (a python package manager)
 On windows, after installing an appropriate version of Anaconda with python 3.7 or later, open the Anaconda Prompt and:
-	1) Run command "pip install numpy"
+	1) Run command "conda install numpy"
 	2) Navigate to this folder using command "cd {PATH}", where {PATH} is the program folder location
 	3) Run command "Main.py"
 
