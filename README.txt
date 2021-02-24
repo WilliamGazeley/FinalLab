@@ -9,6 +9,6 @@ On windows, after installing an appropriate version of Anaconda with python 3.7 
 
 Alternatively, open windows command prompt and:
 	1) Run command "python" and install python from windows store
-	2) Run from command prompt, run command "pip install numpy"
+	2) From command prompt, run command "pip install numpy"
 	3) Run command "pip install matplotlib"
 	4) Find "main.py" in file explorer and double click
